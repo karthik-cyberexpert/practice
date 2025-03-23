@@ -6,3 +6,4 @@ sangavi : text paru naye
 karthik : ethuku paakanum
 sangavi : ama athu en order nee pakanum
 karthik : order rejected
+sangavi : then okey
